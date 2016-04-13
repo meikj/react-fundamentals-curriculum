@@ -5,7 +5,7 @@ var styles = {
 		backgroundColor: "#FF7E00",
 		borderBottom: "1px solid #EB4828",
 		margin: "0",
-		padding: "10px 5px"
+		padding: "10px"
 	},
 	mainHeader: {
 		margin: "0",
@@ -13,9 +13,9 @@ var styles = {
 		color: "white"
 	},
 	mainTextBox: {
-		width: "250px",
+		width: "200px",
 		float: "left",
-		marginRight: "5px"
+		marginRight: "10px"
 	},
 	right: {
 		float: "right"
@@ -36,7 +36,7 @@ var styles = {
 		marginBottom: "0px"
 	},
 	homeTextBox: {
-		width: "250px",
+		width: "200px",
 		margin: "0 auto",
 		float: "none"
 	},
